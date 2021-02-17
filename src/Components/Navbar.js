@@ -10,7 +10,7 @@ const Navbar = () => {
                     <MenuIcon></MenuIcon>
                      </IconButton>
                 <Typography variant="h6"> Live Score </Typography>
-                <Button color="inherit">Login</Button>
+                {/* <Button color="inherit">Login</Button> */}
             </Toolbar>
         </AppBar>
     )
